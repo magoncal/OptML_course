@@ -37,11 +37,11 @@ Nr | Date | Topic | Materials | Exercises
 #4 | 15.3. | Projected, Proximal and Subgradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture04.pdf)| [lab04](../../tree/master/labs/ex04/)
 #5 | 22.3. | Subgradient, Stochastic Gradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture05.pdf)| [lab05](../../tree/master/labs/ex05/)
 #6 | 29.3. | SGD, Non-Convex Optimization | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture06.pdf)| [lab06](../../tree/master/labs/ex06/)
-#7 |  5.4. | Newton's Method | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture07.pdf)| [lab07](../../tree/master/labs/ex07/)
-#8 | 12.4. | Quasi-Newton methods | | 
+#7 |  5.4. | Non-Convex Opt., Newton's Method | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture07.pdf)| [lab07](../../tree/master/labs/ex07/)
+#8 | 12.4. | Newton & Quasi-Newton | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture08.pdf)| [lab08](../../tree/master/labs/ex08/)
 . | 19.4. | `easter vacation` | | -
 . | 26.4. | `easter vacation` | | -
-#9 |  3.5. | Frank-Wolfe | | 
+#9 |  3.5. | Frank-Wolfe | notes, [slides](../../raw/master/slides/lecture09.pdf)| [lab09](../../tree/master/labs/ex09/)
 #10 | 10.5. | Coordinate Descent | | 
 #11 | 17.5. | Duality, Gradient-free methods, Applications | | 
 #12 | 24.5. | Opt for ML in Practice | | 
