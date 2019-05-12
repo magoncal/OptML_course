@@ -42,7 +42,7 @@ Nr | Date | Topic | Materials | Exercises
 . | 19.4. | `easter vacation` | | -
 . | 26.4. | `easter vacation` | | -
 #9 |  3.5. | Frank-Wolfe | notes, [slides](../../raw/master/slides/lecture09.pdf)| [lab09](../../tree/master/labs/ex09/)
-#10 | 10.5. | Coordinate Descent | | 
+#10 | 10.5. | Coordinate Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture10.pdf)| [lab10](../../tree/master/labs/ex10/)
 #11 | 17.5. | Duality, Gradient-free methods, Applications | | 
 #12 | 24.5. | Opt for ML in Practice | | 
 #13 | 31.5. | `Mini-Project week` | | 
@@ -55,6 +55,7 @@ An optional `mini-project` will focus on the practical implementation: Here we e
 
 ### Assessment:
 Final written exam in exam session, 20.06.2019 from 08h15 to 11h15 (PO01 Polydôme). _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
+For practice: [exam of 2018](../../raw/master/exams/exam2018.pdf).
 
 ### Links to related courses and materials 
  - [CMU 10-725](http://www.cs.cmu.edu/~pradeepr/convexopt/)
